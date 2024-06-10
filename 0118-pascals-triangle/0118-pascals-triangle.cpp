@@ -3,8 +3,7 @@ public:
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> result;
         for(int i=1; i <= numRows; ++i){
-            vector<int> temp = pascal(i);
-            result.push_back(temp);
+            result.push_back(pascal(i));
         }
         return result;
     }
