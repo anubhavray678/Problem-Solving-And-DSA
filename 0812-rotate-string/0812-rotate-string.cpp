@@ -24,24 +24,13 @@ public:
     bool rotateString(string s, string goal) {
         if(s.size()!=goal.size())return false;
         string clockwise,anticlockwise;
-        clockwise=s;
-        // rotateclockwise(clockwise);
+        // clockwise=s;
         for(int i =0 ; i<s.size(); ++i){
-            rotateclockwise(clockwise);
-            if(clockwise == goal){
+            rotateclockwise(s);
+            if(s == goal){
             return true;
         }
         }
-
-        
-        // anticlockwise=s;
-        // antirotateclockwise(anticlockwise);
-        // antirotateclockwise(anticlockwise);
-
-        // if(anticlockwise == goal){
-        //     return true;
-        // }
-        
         return false;
     }
 };
