@@ -22,6 +22,7 @@ public:
         //     }
         // }
         // return -1;
+        // optimised O(n)
         vector<int> chr(26,0);
         for(int i=0; i< s.size(); ++i){
             int temp = s[i] - 'a';
