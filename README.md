@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0217-contains-duplicate) |
 | [1217-relative-sort-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1217-relative-sort-array) |
@@ -46,3 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1217-relative-sort-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0031-next-permutation) |
