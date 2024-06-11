@@ -21,12 +21,14 @@ Collection of LeetCode questions to ace the coding interview!
 # String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0812-rotate-string) |
 # Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1217-relative-sort-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0242-valid-anagram) |
 | [1217-relative-sort-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
