@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0217-contains-duplicate) |
 | [1217-relative-sort-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1217-relative-sort-array) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0242-valid-anagram) |
 | [1217-relative-sort-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1217-relative-sort-array) |
@@ -54,3 +56,4 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0075-sort-colors) |
