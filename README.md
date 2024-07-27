@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,4 +142,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0012-integer-to-roman) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
