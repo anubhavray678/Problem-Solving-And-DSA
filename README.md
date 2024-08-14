@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0039-combination-sum) |
 | [0238-product-of-array-except-self](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
@@ -175,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0238-product-of-array-except-self) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
