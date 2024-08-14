@@ -1,6 +1,7 @@
 class Solution {
 public:
-    void helper(vector<vector<int>>& result,vector<int>& combination,vector<int>& candidates, int target,int index) {
+    void helper(vector<vector<int>>& result,vector<int>& combination,
+        vector<int>& candidates, int target,int index) {
         if(target == 0){
             result.push_back(combination);
         }
