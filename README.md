@@ -181,5 +181,6 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
