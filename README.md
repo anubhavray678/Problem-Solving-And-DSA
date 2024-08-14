@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
@@ -182,5 +183,10 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0216-combination-sum-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
