@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0890-lemonade-change) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Matrix
 |  |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,4 +249,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
