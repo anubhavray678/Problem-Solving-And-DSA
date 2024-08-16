@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0234-palindrome-linked-list) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0088-merge-sorted-array) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0141-linked-list-cycle) |
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1250-longest-common-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1250-longest-common-subsequence) |
@@ -231,4 +235,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
