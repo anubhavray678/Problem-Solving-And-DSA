@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0088-merge-sorted-array) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0141-linked-list-cycle) |
