@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1250-longest-common-subsequence) |
 ## Prefix Sum
 |  |
