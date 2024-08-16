@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Array
 |  |
 | ------- |
@@ -117,11 +119,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0890-lemonade-change) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Matrix
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Linked List
 |  |
 | ------- |
@@ -191,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
