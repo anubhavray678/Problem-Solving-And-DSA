@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0169-majority-element) |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Math
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Dynamic Programming
@@ -204,4 +207,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
