@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
 ## Hash Table
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0189-rotate-array) |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
 ## String
 |  |
