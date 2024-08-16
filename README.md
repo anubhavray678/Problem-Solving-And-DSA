@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0890-lemonade-change) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1250-longest-common-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1250-longest-common-subsequence) |
 ## Prefix Sum
