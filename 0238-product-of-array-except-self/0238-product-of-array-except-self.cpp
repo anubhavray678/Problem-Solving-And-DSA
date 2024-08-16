@@ -47,11 +47,11 @@ public:
         // return ans;
         vector<int> ans(nums.size(), 1);
         int left = 1;
+        int product_right = 1;
         for(int i = 0; i< ans.size(); ++i){
             ans[i] *= left;
             left *= nums[i];
         }
-        int product_right = 1;
         for (int i = ans.size() - 1; i >= 0; --i) {
                 ans[i] *= product_right;
                 product_right *= nums[i];
