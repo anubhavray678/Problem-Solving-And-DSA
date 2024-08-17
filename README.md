@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Matrix
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1250-longest-common-subsequence) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Prefix Sum
 |  |
 | ------- |
