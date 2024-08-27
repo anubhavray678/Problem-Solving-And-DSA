@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0890-lemonade-change) |
+| [1325-path-with-maximum-probability](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1325-path-with-maximum-probability) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -267,4 +268,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1236-n-th-tribonacci-number) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
