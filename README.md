@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0189-rotate-array) |
 | [0592-fraction-addition-and-subtraction](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
+| [1236-n-th-tribonacci-number](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1236-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1250-longest-common-subsequence) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Prefix Sum
@@ -261,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0592-fraction-addition-and-subtraction) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
