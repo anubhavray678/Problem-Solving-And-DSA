@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0169-majority-element) |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Math
 |  |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1325-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
@@ -280,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1325-path-with-maximum-probability) |
+## Union Find
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
