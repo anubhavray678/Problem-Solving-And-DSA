@@ -12,7 +12,7 @@ public:
             }
         }
         sort(subArrSum.begin(), subArrSum.end());
-        cout<<subArrSum.size();
+        
         for(int i=left-1;i<right;++i){
             ans =(ans+ subArrSum[i]) %1000000007;
         }
