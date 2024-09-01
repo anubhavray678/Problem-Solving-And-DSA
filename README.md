@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0890-lemonade-change) |
+| [0921-spiral-matrix-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0921-spiral-matrix-iii) |
 | [1325-path-with-maximum-probability](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1325-path-with-maximum-probability) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
+| [0921-spiral-matrix-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Linked List
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0592-fraction-addition-and-subtraction) |
+| [0921-spiral-matrix-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0921-spiral-matrix-iii) |
 ## Memoization
 |  |
 | ------- |
