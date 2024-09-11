@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Strongly Connected Component
 |  |
