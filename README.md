@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Strongly Connected Component
 |  |
 | ------- |
