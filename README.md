@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
 | [1236-n-th-tribonacci-number](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1585-the-kth-factor-of-n](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
@@ -315,5 +316,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
