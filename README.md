@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Matrix
 |  |
 | ------- |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -321,4 +323,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
