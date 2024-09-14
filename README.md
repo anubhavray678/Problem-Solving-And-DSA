@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0556-next-greater-element-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [1250-longest-common-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1250-longest-common-subsequence) |
+| [1933-number-of-different-integers-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Recursion
 |  |
