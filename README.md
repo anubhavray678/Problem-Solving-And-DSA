@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0999-regions-cut-by-slashes) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 ## Math
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0556-next-greater-element-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [1250-longest-common-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1250-longest-common-subsequence) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Recursion
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Backtracking
 |  |
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
