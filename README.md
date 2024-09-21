@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0386-lexicographical-numbers](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0999-regions-cut-by-slashes) |
@@ -355,4 +356,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
