@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0336-palindrome-pairs](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0336-palindrome-pairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0169-majority-element) |
+| [0336-palindrome-pairs](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0336-palindrome-pairs) |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0336-palindrome-pairs](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0336-palindrome-pairs) |
 | [0392-is-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0592-fraction-addition-and-subtraction) |
@@ -359,5 +362,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0336-palindrome-pairs](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
