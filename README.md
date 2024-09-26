@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0729-my-calendar-i](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0906-walking-robot-simulation) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
@@ -369,4 +371,16 @@ Collection of LeetCode questions to ace the coding interview!
 | [0336-palindrome-pairs](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0386-lexicographical-numbers) |
 | [2755-extra-characters-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2755-extra-characters-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
