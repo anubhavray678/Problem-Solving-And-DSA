@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3265-maximum-good-subarray-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/3265-maximum-good-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3265-maximum-good-subarray-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/3265-maximum-good-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3265-maximum-good-subarray-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/3265-maximum-good-subarray-sum) |
 ## Backtracking
 |  |
 | ------- |
