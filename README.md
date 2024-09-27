@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Matrix
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0890-lemonade-change) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
 |  |
 | ------- |
