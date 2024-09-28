@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0906-walking-robot-simulation) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0328-odd-even-linked-list) |
+| [0859-design-circular-deque](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0859-design-circular-deque) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -389,4 +392,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0729-my-calendar-i) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
