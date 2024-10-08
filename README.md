@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0234-palindrome-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1933-number-of-different-integers-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2755-extra-characters-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Memoization
 |  |
 | ------- |
