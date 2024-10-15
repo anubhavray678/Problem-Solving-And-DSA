@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0556-next-greater-element-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0556-next-greater-element-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2755-extra-characters-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Recursion
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0890-lemonade-change) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3195-separate-black-and-white-balls](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
