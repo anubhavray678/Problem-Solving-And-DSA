@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3265-maximum-good-subarray-sum](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/3265-maximum-good-subarray-sum) |
 ## Matrix
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0890-lemonade-change) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1325-path-with-maximum-probability) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Shortest Path
 |  |
 | ------- |
