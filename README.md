@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0999-regions-cut-by-slashes](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [1250-longest-common-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2755-extra-characters-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0077-combinations](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0216-combination-sum-iii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
