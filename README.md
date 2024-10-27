@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0921-spiral-matrix-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1325-path-with-maximum-probability](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1325-path-with-maximum-probability) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0999-regions-cut-by-slashes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Linked List
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
