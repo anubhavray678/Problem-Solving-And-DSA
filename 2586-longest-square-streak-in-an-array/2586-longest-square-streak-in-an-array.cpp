@@ -1,28 +1,28 @@
 class Solution {
 public:
     int longestSquareStreak(vector<int>& nums) {
-        sort(nums.begin(), nums.end());  // Sort the numbers
-        int longestStreak = 0;  // To keep track of the longest streak found
-        unordered_set<int> set(nums.begin(), nums.end());  // Store nums in a set for quick lookup
+        sort(nums.begin(), nums.end());  // Sort to keep numbers in ascending order
+        unordered_set<int> set(nums.begin(), nums.end());  // Populate set for quick lookup
+        int longestStreak = 0;
 
-        for (int i = 0; i < nums.size(); ++i) {
-            long long ele = nums[i];  // Use long long to avoid overflow
+        for (auto n : set) {
+            long long ele = n;  // Start with each unique number
             int currentStreak = 0;
 
-            // Follow the sequence of squares starting from `ele`
+            // Follow the sequence by squaring `ele` and checking if it exists in the set
             while (set.find(ele) != set.end()) {
                 currentStreak++;
                 ele *= ele;  // Move to the next square
                 
-                // Break the loop if the square exceeds the constraints
+                // Break if squaring exceeds the constraint (to prevent overflow)
                 if (ele > 1e5) break;
             }
 
-            // Update the longest streak found so far
+            // Update longest streak found
             longestStreak = max(longestStreak, currentStreak);
         }
 
-        // If longest streak is at least 2, return it; otherwise, return -1
+        // Return the length of the longest streak if it's at least 2, otherwise -1
         return longestStreak >= 2 ? longestStreak : -1;
     }
 };
