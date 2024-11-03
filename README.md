@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0592-fraction-addition-and-subtraction) |
+| [0812-rotate-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0812-rotate-string) |
 ## Monotonic Stack
 |  |
 | ------- |
