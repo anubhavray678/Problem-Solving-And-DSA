@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2232-adding-spaces-to-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0556-next-greater-element-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2232-adding-spaces-to-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2232-adding-spaces-to-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -368,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2232-adding-spaces-to-a-string](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anubhavray678/Problem-Solving-And-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Memoization
 |  |
